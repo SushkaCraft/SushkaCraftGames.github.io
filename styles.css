@@ -28,8 +28,16 @@ h1, h2 {
     color: #000;
 }
 
+h6 {
+    color: #82898ca4;
+}
+
 p {
     color: #555;
+}
+
+a {
+    text-decoration: none;
 }
 
 .tag {
@@ -72,4 +80,17 @@ img {
 
 .text-center {
     text-align: center;
+}
+
+.address {
+    font-size: 1.2rem;
+}
+
+.work-place {
+    margin: 8px 24px;
+}
+
+.experience {
+    border-bottom: 2px solid #878787;
+    padding: 8px 0px;
 }
