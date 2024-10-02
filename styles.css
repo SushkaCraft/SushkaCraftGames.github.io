@@ -49,6 +49,15 @@ html, body {
     position: relative;
 }
 
+@media (max-width: 768px) {
+    .container {
+        max-width: 740px;
+        margin: 0 auto;
+        padding: 16px;
+        transform: none;
+    }
+}
+
 a {
     color: #41337ea4;
     text-decoration: none;
