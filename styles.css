@@ -56,6 +56,10 @@ html, body {
         padding: 16px;
         transform: none;
     }
+
+    .square {
+        height: 64px;
+    }
 }
 
 a {
